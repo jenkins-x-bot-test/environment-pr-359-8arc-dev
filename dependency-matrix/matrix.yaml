@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jenkins-x
+  repo: bdd-jx
+  url: https://github.com/jenkins-x/bdd-jx.git
+  version: ""
+  versionURL: ""
